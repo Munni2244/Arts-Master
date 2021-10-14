@@ -1,0 +1,44 @@
+[
+    {
+      "name": "fantasy women",
+      "price": 600,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque quisquam praesentium necessitatibus voluptatem beatae omnis repellendus odit modi soluta nemo!",
+      "id": 1,
+      "img": "https://image.shutterstock.com/image-illustration/fantasy-woman-colorful-portrait-abstract-260nw-594361523.jpg"
+    },
+    {
+      "name": " Jungle art",
+      "price": 400,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque quisquam praesentium necessitatibus voluptatem beatae omnis repellendus odit modi soluta nemo!",
+      "id": 2,
+      "img": "https://i.pinimg.com/736x/30/b0/ec/30b0ecec450e61c74214e72cedb9fa01--jungle-art-find-art.jpg"
+    },
+    {
+      "name": " Sky Girl",
+      "price": 700,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque quisquam praesentium necessitatibus voluptatem beatae omnis repellendus odit modi soluta nemo!",
+      "id": 3,
+      "img": "https://i.pinimg.com/originals/c1/97/73/c1977379951780ab68af7db3823d1d27.png"
+    },
+    {
+      "name": " Rainy art",
+      "price": 800,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque quisquam praesentium necessitatibus voluptatem beatae omnis repellendus odit modi soluta nemo!",
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNolR481LMMmuDDBXHghrh05rdRfi-CD1gVRbku2we6-VCPWYvs-krwwlUTB4404bDP-0&usqp=CAU"
+    },
+    {
+      "name": "Love art",
+      "price": 900,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque quisquam praesentium necessitatibus voluptatem beatae omnis repellendus odit modi soluta nemo!",
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpiwSEmQlILeYdo4CeXUEOKzAGCU3Um-BL4U1FbD4gnAeEmtWxGhzUlzXNXf9d_u9ERw8&usqp=CAU"
+    },
+    {
+      "name": "Eye",
+      "price": 1260,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque quisquam praesentium necessitatibus voluptatem beatae omnis repellendus odit modi soluta nemo!",
+      "id": 6,
+      "img": "https://www.ubuy.com.tr/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFmUHYyMm5tVVMuX0FDX1NMMTM1MF8uanBn.jpg"
+    }
+  ]
