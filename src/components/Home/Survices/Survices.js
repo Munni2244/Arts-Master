@@ -6,7 +6,7 @@ const Survices = () => {
     const [survices, setSurvices]=useState([]);
 
     useEffect(()=>{
-        fetch('data.json')
+        fetch('http://localhost:5000/survices')
         .then(res=> res.json())
         .then(data=> setSurvices(data))
     },[])

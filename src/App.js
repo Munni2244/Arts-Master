@@ -10,6 +10,8 @@ import Booking from './components/Booking/Booking/Booking';
 import Survices from './components/Home/Survices/Survices';
 import AuthProvider from './Context/AuthProvider';
 import PrivateRoute from './components/Login/PrivateRoute/PrivateRoute';
+import AddSurvice from './components/AddSurvice/AddSurvice';
+import ManageSurvice from './components/ManageSurvice/ManageSurvice';
 
 function App() {
   return (
@@ -41,6 +43,14 @@ function App() {
 
         <Route  path="/survice">
          <Survices></Survices>
+         </Route>
+
+        <Route  path="/addSurvice">
+         <AddSurvice></AddSurvice>
+         </Route>
+
+        <Route  path="/managesurvice">
+         <ManageSurvice></ManageSurvice>
          </Route>
 
         <PrivateRoute  path="/booking/:bookingId">
